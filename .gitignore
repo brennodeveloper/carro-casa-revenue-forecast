@@ -1,0 +1,20 @@
+# Dados locais
+data/
+
+# Ambiente virtual
+venv/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Uploads da API
+api_corretora/uploads/*
+!api_corretora/uploads/.gitkeep
+
+# Teste local
+api_corretora/tests/test_forecast.py
+
+# Variáveis de ambiente
+.env
