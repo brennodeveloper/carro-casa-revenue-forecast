@@ -18,3 +18,12 @@ api_corretora/tests/test_forecast.py
 
 # Variáveis de ambiente
 .env
+
+# frontend
+front_corretora/node_modules/
+front_corretora/build/
+front_corretora/dist/
+front_corretora/.env
+front_corretora/.DS_Store
+# TypeScript build cache
+front_corretora/*.tsbuildinfo
