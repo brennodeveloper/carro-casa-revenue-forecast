@@ -150,8 +150,8 @@ export default function App() {
             Previsão de Faturamento
           </h1>
           <p className="mt-2 text-muted-foreground">
-            Faça upload de uma planilha Excel para gerar projeções de receita por
-            cenário.
+            Faça upload de uma planilha Excel ou CSV para gerar projeções de faturamento
+            por cenário.
           </p>
         </header>
 
